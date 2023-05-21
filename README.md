@@ -28,7 +28,7 @@ I've definitely been granted some unique experiences in life. It took 4 careers 
 </p>
 
 <p align="center"">
-This website represents a Discord server that hosts events and collaborations for developers
+This project represents a social server that hosts events and collaborations for developers. I created this group originally during my bootcamp days to connect students for collaborating on studies and other projects. Read more about us by navigating to our website!
 </p>
 
 <h1 align="center">Past Projects</h1>
@@ -48,7 +48,7 @@ This website represents a Discord server that hosts events and collaborations fo
 
 <p align="center">
 <a href="href="https://canva.com/" target="_blank">
-		<img src="img/Button_Canva.png" alt="canva"/>
+		<img src="img/Button_Canva.png" alt="pixlr"/>
 </a> 
 <a href="href="https://pixlr.com/" target="_blank">
 		<img src="img/Button_Pixlr.png" alt="pixlr"/>
