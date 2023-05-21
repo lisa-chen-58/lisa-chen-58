@@ -47,7 +47,7 @@ This website represents a Discord server that hosts events and collaborations fo
 <h4 align = "center">Pictures were modifed by third-party applications</h4>
 
 <p align="center">
-<button href="https://imageresizer.com/">Image Resizer</button> | 
-<button href="https://www.canva.com/">Canva</button> |
-<button href="https://pixlr.com/">Pixlr</button> 
+<a type="button" href="https://imageresizer.com/">Image Resizer</a> | 
+<a type="button" href="https://www.canva.com/">Canva</a> |
+<a type="button" href="https://pixlr.com/">Pixlr</a> 
 </p>
