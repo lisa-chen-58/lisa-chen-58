@@ -16,15 +16,12 @@ I've definitely been granted some unique experiences in life. It took 4 careers 
 
 ## Current Projects
 
-
-
 <p align="center">
 	<a href="https://sites.google.com/view/the-next-iteration" target="_blank">
-		<img src="Banner_TheNextIteration.png" alt="TheNextIteration"/>
+		<img src="Button_TheNextIteration.jpg" alt="TheNextIteration"/>
   	</a>
-	<small> This website represents a Discord server that hosts events and collaborations for developers </small>
+	<p>This website represents a Discord server that hosts events and collaborations for developers</p>
 </p>
-
 
 ## Past Projects
 
