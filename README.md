@@ -1,4 +1,4 @@
-# Welcome!
+<h1 align="center">Welcome</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lisahlchen/" target="_blank">
@@ -10,12 +10,11 @@
 	<img src="img/banner_brown_wood_minimal.png"
 </p>
 
-## About Me
+<h1 align="center">About Me</h1>
 
 I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibiltiies with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun!
 
-## Current Projects
-
+<h1 align="center">Current Projects</h1>
 
 <p align="center">
 	<a href="https://github.com/lisa-chen-58/Career_Detector_Group_Project_Extension/blob/main/README.md" target="_blank">
@@ -23,12 +22,11 @@ I've definitely been granted some unique experiences in life. It took 4 careers 
   	</a>
 </p>
 
-
 <p align="center"">
 This website represents a Discord server that hosts events and collaborations for developers
 </p>
 
-## Past Projects
+<h1 align="center">Past Projects</h1>
 
 <p align="center">
 	<a href="https://github.com/lisa-chen-58/Career_Detector_Group_Project_Extension/blob/main/README.md" target="_blank">
@@ -41,8 +39,10 @@ This website represents a Discord server that hosts events and collaborations fo
   	</a>
 </p>
 
-#### Images were modified by:
+<h4 align = "center">Pictures were modifed by third-party applications</h4>
 
-* [Image Resizer](https://imageresizer.com/ "Navigate to site")
-* [Canva](https://www.canva.com/ "Navigate to Site")
-* [Pixlr.com](https://pixlr.com/ "Navigate to Site")
+<p align="center">
+<button href="https://imageresizer.com/">Image Resizer</button> | 
+<button href="https://www.canva.com/">Canva</button> |
+<button href="https://pixlr.com/">Pixlr</button> 
+</p>
