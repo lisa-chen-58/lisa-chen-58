@@ -17,7 +17,7 @@
 
 <h1 align="center">About Me</h1>
 
-I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibiltiies with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun!
+I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibilities with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun!
 
 <h1 align="center">Current Projects</h1>
 
@@ -44,7 +44,7 @@ This website represents a Discord server that hosts events and collaborations fo
   	</a>
 </p>
 
-<h4 align = "center">Pictures were modifed by third-party applications</h4>
+<h4 align = "center">Pictures were modified by third-party applications</h4>
 
 <p align="center">
 <a type="button" href="https://imageresizer.com/">Image Resizer</a> | 
