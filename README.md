@@ -48,7 +48,7 @@ This website represents a Discord server that hosts events and collaborations fo
 
 <p align="center">
 <a href="href="https://canva.com/" target="_blank">
-		<img src="img/Button_Pixlr.png" alt="pixlr"/>
+		<img src="img/Button_Canva.png" alt="canva"/>
 </a> 
 <a href="href="https://pixlr.com/" target="_blank">
 		<img src="img/Button_Pixlr.png" alt="pixlr"/>
