@@ -41,9 +41,7 @@ This website represents a Discord server that hosts events and collaborations fo
   	</a>
 </p>
 
-<p align="center">Images were modifed by:</p>
-
-##### Images were modified by:
+#### Images were modified by:
 
 * [Image Resizer](https://imageresizer.com/ "Navigate to site")
 * [Canva](https://www.canva.com/ "Navigate to Site")
