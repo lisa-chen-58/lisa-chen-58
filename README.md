@@ -12,7 +12,7 @@
 
 ## About Me
 
-TBD
+I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibiltiies with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun!
 
 ## Current Projects
 
