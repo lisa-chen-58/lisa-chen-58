@@ -17,7 +17,7 @@
 
 <h1 align="center">About Me</h1>
 
-I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibilities with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun!
+I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibilities with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun! Outside of learning, work, life, I try really hard to protect my pinky toe from the hazards of the world.
 
 <h1 align="center">Current Projects</h1>
 
