@@ -21,6 +21,8 @@ I've definitely been granted some unique experiences in life. It took 4 careers 
 
 <h1 align="center">Current Projects</h1>
 
+<h1 align="center">Past Projects</h1>
+
 <p align="center">
 	<a href="https://github.com/lisa-chen-58/Career_Detector_Group_Project_Extension/blob/main/README.md" target="_blank">
 		<img src="img/Banner_TheNextIteration1.png" alt="TheNextIteration"/>
@@ -30,8 +32,6 @@ I've definitely been granted some unique experiences in life. It took 4 careers 
 <p align="center"">
 This project represents a social server that hosts events and collaborations for developers. I created this group originally during my bootcamp days to connect students for collaborating on studies and other projects. Read more about us by navigating to our website!
 </p>
-
-<h1 align="center">Past Projects</h1>
 
 <p align="center">
 	<a href="https://github.com/lisa-chen-58/Career_Detector_Group_Project_Extension/blob/main/README.md" target="_blank">
