@@ -17,7 +17,11 @@
 
 <h1 align="center">About Me</h1>
 
-I've definitely been granted some unique experiences in life. It took 4 careers to figure out that I ultimately liked learning. Software development has endless possibilities with countless opportunities. The key is to keep learning, grow that network, work hard and ultimately, have fun! Outside of learning, work, life, I try really hard to protect my pinky toe from the hazards of the world.
+I've had the privilege of navigating unique paths in life, taking four careers to discover my true passion: learning. Software development offers infinite possibilities and challenges, fueling my curiosity and drive to grow.
+
+For me, the key is simple: keep learning, nurture connections, work hard, and enjoy the journey. Whether optimizing a process, contributing code, or collaborating with a team, I strive to make a positive impact while honing my skills.
+
+When I'm not immersed in tech, I’m navigating life’s hazards—like keeping my pinky toe safe—and embracing every opportunity to grow as a developer, teammate, and lifelong learner.
 
 <h1 align="center">Current Projects</h1>
 
